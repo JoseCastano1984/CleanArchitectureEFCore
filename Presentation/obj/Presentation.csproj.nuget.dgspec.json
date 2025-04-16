@@ -1,25 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jose.Castano\\source\\repos\\CleanArchitectureEFCore\\Presentation\\Presentation.csproj": {}
+    "C:\\Users\\joseS\\source\\repos\\CleanArchitectureEFCore\\Presentation\\Presentation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jose.Castano\\source\\repos\\CleanArchitectureEFCore\\Application\\Application.csproj": {
+    "C:\\Users\\joseS\\source\\repos\\CleanArchitectureEFCore\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jose.Castano\\source\\repos\\CleanArchitectureEFCore\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\joseS\\source\\repos\\CleanArchitectureEFCore\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\Jose.Castano\\source\\repos\\CleanArchitectureEFCore\\Application\\Application.csproj",
-        "packagesPath": "C:\\Users\\Jose.Castano\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jose.Castano\\source\\repos\\CleanArchitectureEFCore\\Application\\obj\\",
+        "projectPath": "C:\\Users\\joseS\\source\\repos\\CleanArchitectureEFCore\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\joseS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\joseS\\source\\repos\\CleanArchitectureEFCore\\Application\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Jose.Castano\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\joseS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -34,8 +29,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Jose.Castano\\source\\repos\\CleanArchitectureEFCore\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Jose.Castano\\source\\repos\\CleanArchitectureEFCore\\Domain\\Domain.csproj"
+              "C:\\Users\\joseS\\source\\repos\\CleanArchitectureEFCore\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\joseS\\source\\repos\\CleanArchitectureEFCore\\Domain\\Domain.csproj"
               }
             }
           }
@@ -76,45 +71,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[8.0.12, 8.0.12]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[8.0.12, 8.0.12]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[8.0.12, 8.0.12]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.105/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Jose.Castano\\source\\repos\\CleanArchitectureEFCore\\Domain\\Domain.csproj": {
+    "C:\\Users\\joseS\\source\\repos\\CleanArchitectureEFCore\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jose.Castano\\source\\repos\\CleanArchitectureEFCore\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\joseS\\source\\repos\\CleanArchitectureEFCore\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\Jose.Castano\\source\\repos\\CleanArchitectureEFCore\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\Jose.Castano\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jose.Castano\\source\\repos\\CleanArchitectureEFCore\\Domain\\obj\\",
+        "projectPath": "C:\\Users\\joseS\\source\\repos\\CleanArchitectureEFCore\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\joseS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\joseS\\source\\repos\\CleanArchitectureEFCore\\Domain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Jose.Castano\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\joseS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -157,45 +133,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[8.0.12, 8.0.12]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[8.0.12, 8.0.12]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[8.0.12, 8.0.12]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.105/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Jose.Castano\\source\\repos\\CleanArchitectureEFCore\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\joseS\\source\\repos\\CleanArchitectureEFCore\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jose.Castano\\source\\repos\\CleanArchitectureEFCore\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\joseS\\source\\repos\\CleanArchitectureEFCore\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\Jose.Castano\\source\\repos\\CleanArchitectureEFCore\\Infrastructure\\Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\Jose.Castano\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jose.Castano\\source\\repos\\CleanArchitectureEFCore\\Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\joseS\\source\\repos\\CleanArchitectureEFCore\\Infrastructure\\Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\joseS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\joseS\\source\\repos\\CleanArchitectureEFCore\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Jose.Castano\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\joseS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -210,8 +167,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Jose.Castano\\source\\repos\\CleanArchitectureEFCore\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\Jose.Castano\\source\\repos\\CleanArchitectureEFCore\\Application\\Application.csproj"
+              "C:\\Users\\joseS\\source\\repos\\CleanArchitectureEFCore\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\joseS\\source\\repos\\CleanArchitectureEFCore\\Application\\Application.csproj"
               }
             }
           }
@@ -258,45 +215,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[8.0.12, 8.0.12]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[8.0.12, 8.0.12]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[8.0.12, 8.0.12]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.105/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Jose.Castano\\source\\repos\\CleanArchitectureEFCore\\Presentation\\Presentation.csproj": {
+    "C:\\Users\\joseS\\source\\repos\\CleanArchitectureEFCore\\Presentation\\Presentation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jose.Castano\\source\\repos\\CleanArchitectureEFCore\\Presentation\\Presentation.csproj",
+        "projectUniqueName": "C:\\Users\\joseS\\source\\repos\\CleanArchitectureEFCore\\Presentation\\Presentation.csproj",
         "projectName": "Presentation",
-        "projectPath": "C:\\Users\\Jose.Castano\\source\\repos\\CleanArchitectureEFCore\\Presentation\\Presentation.csproj",
-        "packagesPath": "C:\\Users\\Jose.Castano\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jose.Castano\\source\\repos\\CleanArchitectureEFCore\\Presentation\\obj\\",
+        "projectPath": "C:\\Users\\joseS\\source\\repos\\CleanArchitectureEFCore\\Presentation\\Presentation.csproj",
+        "packagesPath": "C:\\Users\\joseS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\joseS\\source\\repos\\CleanArchitectureEFCore\\Presentation\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Jose.Castano\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\joseS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -311,11 +249,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Jose.Castano\\source\\repos\\CleanArchitectureEFCore\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\Jose.Castano\\source\\repos\\CleanArchitectureEFCore\\Application\\Application.csproj"
+              "C:\\Users\\joseS\\source\\repos\\CleanArchitectureEFCore\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\joseS\\source\\repos\\CleanArchitectureEFCore\\Application\\Application.csproj"
               },
-              "C:\\Users\\Jose.Castano\\source\\repos\\CleanArchitectureEFCore\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\Jose.Castano\\source\\repos\\CleanArchitectureEFCore\\Infrastructure\\Infrastructure.csproj"
+              "C:\\Users\\joseS\\source\\repos\\CleanArchitectureEFCore\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\joseS\\source\\repos\\CleanArchitectureEFCore\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -354,24 +292,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[8.0.12, 8.0.12]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[8.0.12, 8.0.12]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[8.0.12, 8.0.12]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[8.0.12, 8.0.12]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -380,7 +300,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.105/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
